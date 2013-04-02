@@ -1,0 +1,1 @@
+var smith = 'hero';
